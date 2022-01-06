@@ -79,7 +79,7 @@ var UserMenu = Widget.extend({
      * @private
      */
     _onMenuDocumentation: function () {
-        window.open('https://www.odoo.com/documentation/13.0', '_blank');
+        window.open('https://viindoo.com/documentation/14.0', '_blank');
     },
     /**
      * @private
@@ -112,7 +112,7 @@ var UserMenu = Widget.extend({
      * @private
      */
     _onMenuSupport: function () {
-        window.open('https://www.odoo.com/buy', '_blank');
+        window.open('https://viindoo.com/ticket', '_blank');
     },
     /**
      * @private
